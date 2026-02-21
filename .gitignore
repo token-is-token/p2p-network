@@ -1,0 +1,78 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Dependencies
+node_modules/
+vendor/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+out/
+target/
+bin/
+*.o
+*.so
+*.exe
+*.dll
+
+# Go
+*.test
+*.out
+go.work
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.env
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+.prompts
+
+# Test coverage
+coverage/
+.coverage
+*.lcov
+
+# Package manager files
+*.lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Sisyphus internal (keep plans, ignore evidence temp)
+.sisyphus/evidence/
+
+# Backup files
+*.bak
+*.backup
+*.orig
